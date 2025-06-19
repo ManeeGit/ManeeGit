@@ -7,21 +7,12 @@ I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and 
 
 ---
 
-## 💫 About Me
-
-- 🧑‍💻 MS in Computer Science @ Texas Tech University (GPA: 3.5/4.0, Graduating Dec 2026)
-- 🎓 BCA (Data Science & Analytics) @ KCIST, India (GPA: 9.65/10.0)
-- 🤖 AI Engineer, Backend & Frontend Developer
-- 🌍 Love building scalable, data-driven solutions and exploring the latest in ML/AI
-
----
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maneesh_malepati)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesh-malepati)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ManeeGit)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square&logo=internet-explorer)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square&logo=internet-explorer)](https://maneesh.tech)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malepatimaneesh6@gmail.com)
 
 ---
@@ -64,9 +55,7 @@ I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and 
 **AI Engineer & Full Stack Developer**  
 _Rawls College of Business, Texas Tech University_  
 March 2025 – Present  
-- 🏢 Developed a seamless room-reservation system for the college
-- 🧠 Built a RAG (Retrieval-Augmented Generation) application using LLMs (97% accuracy)
-- 📊 Created a blog analyzer using VADER & Empath sentiment analysis
+- 🧠 Building something amazing.. Brewing with a good pace!
 
 **Packaged App Development Associate**  
 _Accenture – Hyderabad, India_  
