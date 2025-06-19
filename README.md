@@ -1,96 +1,21 @@
-# 👋 Hi, I'm Maneesh Malepati
+# 💫 About Me:
+# 👋 Hi, I'm Maneesh Malepati<br><br>Welcome to my GitHub!  <br>I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and full-stack developer.<br><br>---<br><br>## 💫 About Me<br><br>- 🧑‍💻 MS in Computer Science @ Texas Tech University (GPA: 3.5/4.0, Graduating Dec 2026)<br>- 🎓 BCA (Data Science & Analytics) @ KCIST, India (GPA: 9.65/10.0)<br>- 🤖 AI Engineer, Backend & Frontend Developer<br>- 🌍 Love building scalable, data-driven solutions and exploring the latest in ML/AI<br><br>---<br><br>## 🌐 Socials<br><br>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](#)<br>[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](#)<br>[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square&logo=internet-explorer)](#)<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages:**  <br>☕ Java 🐍 Python 🦀 Rust 💻 JavaScript 🖥️ C 🟦 SQL 🌐 HTML/CSS<br><br>**Frameworks:**  <br>⚛️ React.js 🌱 Node.js 🦄 Django 🚂 Express.js 🟩 Redux 🔥 Vue.js<br><br>**Databases:**  <br>🐬 MySQL 🍃 MongoDB 🔥 Firebase 🐘 PostgreSQL<br><br>**DevOps/Cloud:**  <br>☁️ AWS 🐳 Docker ☸️ Kubernetes 🛠️ Jenkins 🌱 Terraform<br><br>**Tools:**  <br>🐧 Linux 🧑‍💻 Visual Studio 📝 Eclipse 🐍 Anaconda 🌱 Git/GitHub<br><br>---<br><br>## 👨‍💻 Experience<br><br>**AI Engineer & Full Stack Developer**  <br>*Rawls College of Business, Texas Tech University*  <br>_March 2025 – Present_  <br>- 🏢 Developed a seamless room-reservation system for the college<br>- 🧠 Built a RAG (Retrieval-Augmented Generation) application using LLMs (97% accuracy)<br>- 📊 Created a blog analyzer using VADER & Empath sentiment analysis<br><br>**Packaged App Development Associate**  <br>*Accenture – Hyderabad, India*  <br>_June 2024 – Nov 2024_  <br>- 🤝 Designed, developed & deployed packaged applications (80% efficiency boost)<br>- 🚀 Enhanced application performance, scalability, and user experience<br>- 🏃‍♂️ Participated in agile sprints, code reviews, and QA<br><br>**Software Development Engineer**  <br>*AVYS Technologies – Hyderabad, India*  <br>_May 2023 – May 2024_  <br>- 🔗 Built & integrated RESTful APIs with frontend frameworks<br>- 🌐 Designed responsive UIs, managed repositories, optimized DB queries (↓ latency by 40%)<br><br>**Software Development Intern**  <br>*AVYS Technologies – Hyderabad, India*  <br>_Feb 2023 – May 2023_  <br>- 🌍 Developed a CAD web app for an Italian client (Vue.js, Three.js, WebGL)<br>- 💡 Led 2D CAD project, improving drawing efficiency from 30% → 90%<br><br>---<br><br>## 🚀 Projects<br><br>### 🖊️ [2D Computer-Aided Design (CAD) Web App](#)<br>*Vue.js, Django, Three.js, Two.js, PostgreSQL*  <br>- Billionth-scale zoom, precise drawing, AutoCAD-like features  <br>- Custom drawing efficiency improved from 30% to 95%  <br>- Delivered and demoed to Italian client with full integration<br><br>### 👤 Face Detection System<br>*OpenCV, Python, NumPy*  <br>- Real-time human & animal face detection (live & recorded)  <br>- Achieved 95% accuracy; integrated with student attendance system<br><br>---<br><br>## 📚 Portfolio & Profiles<br><br>- 🏆 [LeetCode – Maneesh Malepati](#)<br>- 🌐 [Personal Portfolio](#)<br><br>---<br><br>> _Always building. Always learning. Always caffeinated ☕._
 
-Welcome to my GitHub!  
-I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and full-stack developer.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maneesh_malepati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesh-malepati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malepatimaneesh6@gmail.com) 
 
-## 💫 About Me
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ManeeGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ManeeGit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🧑‍💻 MS in Computer Science @ Texas Tech University (GPA: 3.5/4.0, Graduating Dec 2026)
-- 🎓 BCA (Data Science & Analytics) @ KCIST, India (GPA: 9.65/10.0)
-- 🤖 AI Engineer, Backend & Frontend Developer
-- 🌍 Love building scalable, data-driven solutions and exploring the latest in ML/AI
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square&logo=internet-explorer)](#)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ManeeGit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ManeeGit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-☕ Java 🐍 Python 🦀 Rust 💻 JavaScript 🖥️ C 🟦 SQL 🌐 HTML/CSS
-
-**Frameworks:**  
-⚛️ React.js 🌱 Node.js 🦄 Django 🚂 Express.js 🟩 Redux 🔥 Vue.js
-
-**Databases:**  
-🐬 MySQL 🍃 MongoDB 🔥 Firebase 🐘 PostgreSQL
-
-**DevOps/Cloud:**  
-☁️ AWS 🐳 Docker ☸️ Kubernetes 🛠️ Jenkins 🌱 Terraform
-
-**Tools:**  
-🐧 Linux 🧑‍💻 Visual Studio 📝 Eclipse 🐍 Anaconda 🌱 Git/GitHub
-
----
-
-## 👨‍💻 Experience
-
-**AI Engineer & Full Stack Developer**  
-*Rawls College of Business, Texas Tech University*  
-_March 2025 – Present_  
-- 🏢 Developed a seamless room-reservation system for the college
-- 🧠 Built a RAG (Retrieval-Augmented Generation) application using LLMs (97% accuracy)
-- 📊 Created a blog analyzer using VADER & Empath sentiment analysis
-
-**Packaged App Development Associate**  
-*Accenture – Hyderabad, India*  
-_June 2024 – Nov 2024_  
-- 🤝 Designed, developed & deployed packaged applications (80% efficiency boost)
-- 🚀 Enhanced application performance, scalability, and user experience
-- 🏃‍♂️ Participated in agile sprints, code reviews, and QA
-
-**Software Development Engineer**  
-*AVYS Technologies – Hyderabad, India*  
-_May 2023 – May 2024_  
-- 🔗 Built & integrated RESTful APIs with frontend frameworks
-- 🌐 Designed responsive UIs, managed repositories, optimized DB queries (↓ latency by 40%)
-
-**Software Development Intern**  
-*AVYS Technologies – Hyderabad, India*  
-_Feb 2023 – May 2023_  
-- 🌍 Developed a CAD web app for an Italian client (Vue.js, Three.js, WebGL)
-- 💡 Led 2D CAD project, improving drawing efficiency from 30% → 90%
-
----
-
-## 🚀 Projects
-
-### 🖊️ [2D Computer-Aided Design (CAD) Web App](#)
-*Vue.js, Django, Three.js, Two.js, PostgreSQL*  
-- Billionth-scale zoom, precise drawing, AutoCAD-like features  
-- Custom drawing efficiency improved from 30% to 95%  
-- Delivered and demoed to Italian client with full integration
-
-### 👤 Face Detection System
-*OpenCV, Python, NumPy*  
-- Real-time human & animal face detection (live & recorded)  
-- Achieved 95% accuracy; integrated with student attendance system
-
----
-
-## 📚 Portfolio & Profiles
-
-- 🏆 [LeetCode – Maneesh Malepati](#)
-- 🌐 [Personal Portfolio](#)
-
----
-
-> _Always building. Always learning. Always caffeinated ☕._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
