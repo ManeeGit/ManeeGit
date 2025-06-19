@@ -26,25 +26,6 @@ I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and 
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-☕ Java 🐍 Python 🦀 Rust 💻 JavaScript 🖥️ C 🟦 SQL 🌐 HTML/CSS 📊 R
-
-**Frameworks:**  
-⚛️ React.js 🌱 Node.js 🦄 Django 🚂 Express.js 🟩 Redux 🔥 Vue.js ⚡ FastAPI
-
-**Databases:**  
-🐬 MySQL 🍃 MongoDB 🔥 Firebase 🐘 PostgreSQL
-
-**DevOps/Cloud:**  
-☁️ AWS 🐳 Docker ☸️ Kubernetes 🛠️ Jenkins 🌱 Terraform
-
-**Tools:**  
-🐧 Linux 🧑‍💻 Visual Studio 📝 Eclipse 🐍 Anaconda 🌱 Git/GitHub
-
----
-
 ## 💻 Tech Stack (Badges)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
