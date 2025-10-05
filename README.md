@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm Maneesh Malepati
+👋 Hi, I'm M M
 
 Welcome to my GitHub!  
 I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and full-stack developer.
