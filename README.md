@@ -1,119 +1,91 @@
-# 💫 About Me
+# About Me  
 
-👋 Hi, I'm Maneesh Malepati
+Hi, I’m **Maneesh Malepati**  
 
-Welcome to my GitHub!  
-I'm **Maneesh Malepati** — a passionate software engineer, AI enthusiast, and full-stack developer.
+I am a Software Engineer, Applied AI Engineer, and Full-Stack Developer with experience in building secure, scalable, and production-grade web applications. My work focuses on designing end-to-end systems that combine modern frontend frameworks, robust backend architectures, cloud authentication, and automation-driven workflows.  
 
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maneesh_malepati)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesh-malepati)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ManeeGit)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-darkgreen?style=flat-square&logo=internet-explorer)](https://maneesh.tech)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malepatimaneesh6@gmail.com)
+I enjoy solving complex engineering problems, building real-world enterprise systems, and working at the intersection of Full-Stack Development, AI, and DevOps.
 
 ---
 
-## 💻 Tech Stack (Badges)
+## Socials  
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maneesh%20Malepati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesh-malepati)  
+[![GitHub](https://img.shields.io/badge/GitHub-ManeeGit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManeeGit)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-maneesh.tech-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://maneesh.tech)  
+[![Email](https://img.shields.io/badge/Email-maleptimaneesh6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malepatimaneesh6@gmail.com)
+
+---
+
+## Tech Stack  
+
+### Languages  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### Frontend  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+---
+
+### Backend & APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
-## 👨‍💻 Experience
-
-**AI Engineer & Full Stack Developer**  
-_Rawls College of Business, Texas Tech University_  
-March 2025 – Present  
-- 🧠 Building something amazing.. Brewing with a good pace!
-
-**Packaged App Development Associate**  
-_Accenture – Hyderabad, India_  
-June 2024 – Nov 2024  
-- 🤝 Designed, developed & deployed packaged applications (80% efficiency boost)
-- 🚀 Enhanced application performance, scalability, and user experience
-- 🏃‍♂️ Participated in agile sprints, code reviews, and QA
-
-**Software Development Engineer**  
-_AVYS Technologies – Hyderabad, India_  
-May 2023 – May 2024  
-- 🔗 Built & integrated RESTful APIs with frontend frameworks
-- 🌐 Designed responsive UIs, managed repositories, optimized DB queries (↓ latency by 40%)
-
-**Software Development Intern**  
-_AVYS Technologies – Hyderabad, India_  
-Feb 2023 – May 2023  
-- 🌍 Developed a CAD web app for an Italian client (Vue.js, Three.js, WebGL)
-- 💡 Led 2D CAD project, improving drawing efficiency from 30% → 90%
+### Databases  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🚀 Projects
-
-### 🖊️ [2D Computer-Aided Design (CAD) Web App](#)
-*Vue.js, Django, Three.js, Two.js, PostgreSQL*  
-- Billionth-scale zoom, precise drawing, AutoCAD-like features  
-- Custom drawing efficiency improved from 30% to 95%  
-- Delivered and demoed to Italian client with full integration
-
-### 👤 Face Detection System
-*OpenCV, Python, NumPy*  
-- Real-time human & animal face detection (live & recorded)  
-- Achieved 95% accuracy; integrated with student attendance system
+### Authentication & Security  
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge)
 
 ---
 
-## 📚 Portfolio & Profiles
-
-- 🏆 [LeetCode – Maneesh Malepati](#)
-- 🌐 [Personal Portfolio](#)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ManeeGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ManeeGit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeeGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ManeeGit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### DevOps & Deployment  
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D6?style=for-the-badge)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ManeeGit&icon=0&color=0)](https://visitcount.itsvg.in)
+### AI / Data & Automation  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-> _Always building. Always learning. Always caffeinated ☕._
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Focus Areas  
+- Full-Stack Application Development  
+- Secure System Design  
+- Role-Based Access Control & Authentication  
+- Document Automation & PDF Generation  
+- Production Deployments on Windows & Cloud  
+- AI-Integrated Platforms  
+
+---
+
+> Always building reliable systems. Focused on engineering quality, scalability, and real-world impact.
