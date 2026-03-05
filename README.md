@@ -1,71 +1,119 @@
-# About Me
+# Hi, I'm Maneesh Malepati
 
-Hi, I'm **Maneesh Malepati**
+Full-Stack Software Engineer and Applied AI Engineer building production systems across web platforms, machine learning pipelines, and scalable backend services.
 
-I’m a **Full-Stack Software Engineer and Applied AI Engineer** focused on building production-ready systems that combine modern web applications, scalable backend services, and AI-driven workflows.
+Currently working at **Texas Tech University – Rawls College of Business**, where I design and deploy academic workflow automation systems and AI-driven document analysis platforms.
 
-Currently working at **Texas Tech University (Rawls College of Business)** where I design and ship enterprise-grade academic workflow platforms that automate complex review processes, secure document management, and role-based collaboration systems.
-
-I enjoy building systems end-to-end — from architecture and development to deployment, security, and performance optimization.
+My work focuses on turning complex processes into secure, scalable software systems.
 
 ---
 
-## What I Work On
+# Core Engineering Areas
 
-- Full-stack web platforms using **React, Next.js, Vue.js, Node.js, and FastAPI**
-- **Secure authentication systems** using Azure Active Directory (SSO) and RBAC
-- Workflow automation and **document management systems**
-- **PDF generation, merging, and dossier automation**
-- Designing **scalable APIs and backend architectures**
-- Production deployments on **Windows Server, IIS, and PM2**
-- Integrating **AI and data pipelines** into real-world applications
-
-My goal is to build software that is **reliable, secure, scalable, and impactful**, especially in:
-
-- Education technology
-- Workflow automation platforms
-- AI-assisted productivity systems
+• Full-Stack Web Platforms (React, Vue, Node.js, FastAPI)  
+• Backend Systems & API Design  
+• Distributed and Asynchronous Services  
+• AI Systems and Retrieval-Augmented Generation (RAG)  
+• Machine Learning Model Evaluation  
+• Workflow Automation Platforms  
+• Cloud Deployment and DevOps  
 
 ---
 
-## Current Work
+# Featured Projects
 
-**AI Engineer & Full Stack Developer — Texas Tech University**
+## Faculty Review Workflow Platform
+Full-stack enterprise system used for academic review workflows.
 
-- Built a **Faculty Third-Year Review Management Platform**
-- Automated document submission, validation, tracking, and PDF dossier generation
-- Implemented **Azure AD SSO authentication with role-based access control**
-- Developed dashboards and status tracking for faculty, reviewers, and administrators
-- Deployed production systems on **Windows Server with IIS reverse proxy and PM2**
-- Strengthened security with **Helmet.js, CORS protection, and API rate limiting**
+Tech: React, Node.js, MongoDB, AWS
 
----
-
-## Tech Stack
-
-### Languages
-TypeScript • JavaScript • Python • Java • C
-
-### Frontend
-React • Next.js • Vue.js • TailwindCSS • Three.js
-
-### Backend
-Node.js • Express • FastAPI • Django • Prisma
-
-### Databases
-PostgreSQL • MongoDB • MySQL • SQL Server
-
-### DevOps & Deployment
-Windows Server • IIS Reverse Proxy • PM2 • Jenkins • Git
-
-### AI & Data
-OpenCV • NumPy • Pandas • Streamlit
+Key work:
+- Built role-based workflow platform for multi-stage faculty review
+- Designed REST APIs with validation and consistent state transitions
+- Implemented RBAC authentication and audit trails
+- Reduced review turnaround time by **36%**
 
 ---
 
-## Connect With Me
+## Raider Chat – Document Question Answering System
+Production RAG system for document retrieval and conversational querying.
 
-- LinkedIn → https://linkedin.com/in/maneesh-malepati
-- GitHub → https://github.com/ManeeGit
-- Portfolio → https://maneesh.tech
-- Email → mailto:malepatimaneesh6@gmail.com
+Tech: FastAPI, FAISS, Python, AWS
+
+Key work:
+- Built ingestion → chunking → embeddings → vector search pipeline
+- Implemented semantic search over internal documents
+- Reduced response latency by **31%** through async backend tuning
+- Instrumented monitoring for retrieval quality and latency
+
+---
+
+## NetMoniAI – Network Anomaly Detection
+Machine learning system for detecting abnormal network activity.
+
+Tech: Python, TensorFlow, scikit-learn
+
+Key work:
+- Built anomaly detection models using Isolation Forest and Autoencoders
+- Performed feature engineering on telemetry datasets
+- Evaluated models using precision, recall, and F1 score
+- Built FastAPI inference service for real-time detection
+
+---
+
+## User Behavior Forecasting
+Data science project analyzing user patterns and predictive trends.
+
+Tech: Python, Pandas, NumPy, scikit-learn
+
+Key work:
+- Built preprocessing pipelines and feature engineering workflows
+- Trained regression models for behavior forecasting
+- Improved model accuracy by **30% vs baseline**
+
+---
+
+# Tech Stack
+
+Languages  
+Python • JavaScript • TypeScript • Java • SQL
+
+Frontend  
+React • Vue.js • Next.js • HTML • CSS
+
+Backend  
+Node.js • Express • FastAPI • REST APIs • Async Services
+
+Databases  
+PostgreSQL • MongoDB • MySQL • Redis
+
+Machine Learning  
+scikit-learn • TensorFlow • Pandas • NumPy
+
+AI Systems  
+RAG • Embeddings • FAISS • Prompt Engineering
+
+DevOps  
+AWS • Docker • Jenkins • CI/CD
+
+---
+
+# Current Focus
+
+• AI-powered document and workflow systems  
+• Production RAG pipelines  
+• Scalable backend architecture  
+• ML evaluation frameworks  
+
+---
+
+# Connect
+
+LinkedIn  
+https://linkedin.com/in/maneesh-malepati  
+
+Portfolio  
+https://maneesh.tech  
+
+Email  
+malepatimaneesh6@gmail.com
