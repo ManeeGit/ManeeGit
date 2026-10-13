@@ -1,119 +1,104 @@
-# Hi, I'm Maneesh Malepati
+# Hi, I'm Maneesh Malepati 👋
 
-Full-Stack Software Engineer and Applied AI Engineer building production systems across web platforms, machine learning pipelines, and scalable backend services.
+**Full-Stack Software Engineer & Applied AI Engineer**
 
-Currently working at **Texas Tech University – Rawls College of Business**, where I design and deploy academic workflow automation systems and AI-driven document analysis platforms.
+I build web platforms, AI assistants, and backend services—from user interfaces and APIs to deployment, monitoring, and evaluation.
 
-My work focuses on turning complex processes into secure, scalable software systems.
+At **Texas Tech University’s Rawls College of Business**, I develop production systems for faculty and staff, including academic review platforms and document question-answering tools. Previously, I interned at **Amazon**, building payment platform features and internal developer tooling.
 
----
+I’m also building **[Maneuler](https://maneuler.com)**, my personal product suite.
 
-# Core Engineering Areas
+[Portfolio](https://maneuler.com) · [LinkedIn](https://linkedin.com/in/maneesh-malepati) · [Email](mailto:malepatimaneesh6@gmail.com)
 
-• Full-Stack Web Platforms (React, Vue, Node.js, FastAPI)  
-• Backend Systems & API Design  
-• Distributed and Asynchronous Services  
-• AI Systems and Retrieval-Augmented Generation (RAG)  
-• Machine Learning Model Evaluation  
-• Workflow Automation Platforms  
-• Cloud Deployment and DevOps  
+## Selected Engineering Work
 
----
+### Academic Review Platforms — TYR & PTCA
 
-# Featured Projects
+Production applications supporting faculty tenure review and promotion workflows at Texas Tech.
 
-## Faculty Review Workflow Platform
-Full-stack enterprise system used for academic review workflows.
+- Built role-based dashboards, multi-stage approvals, document routing, and audit trails.
+- Designed REST APIs with schema validation and consistent workflow state transitions.
+- Reduced average review turnaround from **5.2 to 3.3 days across two pilot cycles**.
+- Used database indexing, caching, and shared deployment pipelines to support reliable operation.
 
-Tech: React, Node.js, MongoDB, AWS
+**Stack:** React · Node.js · FastAPI · MongoDB · AWS · Docker
 
-Key work:
-- Built role-based workflow platform for multi-stage faculty review
-- Designed REST APIs with validation and consistent state transitions
-- Implemented RBAC authentication and audit trails
-- Reduced review turnaround time by **36%**
+### Rawls Chat & Raider Chat — Document AI
 
----
+Built document question-answering systems for university knowledge and faculty workflows.
 
-## Raider Chat – Document Question Answering System
-Production RAG system for document retrieval and conversational querying.
+- Implemented ingestion, chunking, embeddings, vector indexing, and semantic retrieval.
+- Developed conversational interfaces and source-aware responses.
+- Added authentication, access controls, rate limiting, and request-level monitoring.
+- Evaluated retrieval quality, response grounding, and latency to guide improvements.
 
-Tech: FastAPI, FAISS, Python, AWS
+**Stack:** Python · FastAPI · React · LangChain · FAISS · ChromaDB · AWS
 
-Key work:
-- Built ingestion → chunking → embeddings → vector search pipeline
-- Implemented semantic search over internal documents
-- Reduced response latency by **31%** through async backend tuning
-- Instrumented monitoring for retrieval quality and latency
+### Amazon — Payment Features & Developer Tooling
 
----
+**Software Development Engineer Intern | May–August 2026**
 
-## NetMoniAI – Network Anomaly Detection
-Machine learning system for detecting abnormal network activity.
+- Built frontend and backend features for payment method management across checkout and wallet experiences.
+- Developed reusable components with React, Next.js, and TypeScript.
+- Built internal tooling that reduced plugin testing iterations from **approximately 10 minutes to under 10 seconds**.
+- Contributed backend services using Node.js and AWS Lambda.
 
-Tech: Python, TensorFlow, scikit-learn
+### NetMoniAI — Network Anomaly Detection
 
-Key work:
-- Built anomaly detection models using Isolation Forest and Autoencoders
-- Performed feature engineering on telemetry datasets
-- Evaluated models using precision, recall, and F1 score
-- Built FastAPI inference service for real-time detection
+Machine learning experiments and inference services for identifying abnormal network activity.
 
----
+- Built and compared Isolation Forest and Autoencoder models.
+- Engineered statistical and time-window features from telemetry data.
+- Evaluated precision, recall, F1 score, and false-positive tradeoffs.
+- Developed FastAPI inference endpoints and contributed experimental benchmarking.
 
-## User Behavior Forecasting
-Data science project analyzing user patterns and predictive trends.
+**Stack:** Python · TensorFlow/Keras · scikit-learn · Pandas · NumPy · FastAPI
 
-Tech: Python, Pandas, NumPy, scikit-learn
+### Maneuler — Personal Product Suite
 
-Key work:
-- Built preprocessing pipelines and feature engineering workflows
-- Trained regression models for behavior forecasting
-- Improved model accuracy by **30% vs baseline**
+Building connected products under **[maneuler.com](https://maneuler.com)**:
 
----
+- **Maneuler:** Main website and product hub.
+- **Vault:** File and credential storage with access-controlled sharing.
+- **Studio:** A workspace for design exploration and UI prototyping.
 
-# Tech Stack
+## How I Build
 
-Languages  
-Python • JavaScript • TypeScript • Java • SQL
+- **Security:** JWT authentication, role-based access, rate limiting, and audit logging.
+- **Performance:** Async services, Redis caching, connection pooling, and database indexing.
+- **Reliability:** Input validation, structured logging, centralized error handling, and background jobs.
+- **Delivery:** Unit and integration tests, Docker, and automated CI/CD pipelines.
 
-Frontend  
-React • Vue.js • Next.js • HTML • CSS
+At Rawls, asynchronous service improvements increased throughput from **28 to 38 requests/minute** under controlled load testing and reduced average API latency from **820 ms to 610 ms**.
 
-Backend  
-Node.js • Express • FastAPI • REST APIs • Async Services
+## Technical Toolkit
 
-Databases  
-PostgreSQL • MongoDB • MySQL • Redis
+| Area | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, Java, SQL |
+| Frontend | React, Next.js, Vue.js, HTML, CSS |
+| Backend | FastAPI, Node.js, Express, REST APIs, asynchronous services |
+| Databases | PostgreSQL, MongoDB, MySQL, Redis |
+| AI & ML | RAG, LangChain, FAISS, ChromaDB, scikit-learn, TensorFlow/Keras |
+| Cloud & Delivery | AWS, Docker, Jenkins, GitHub Actions |
+| Testing & Operations | pytest, unit/integration testing, logging, monitoring |
 
-Machine Learning  
-scikit-learn • TensorFlow • Pandas • NumPy
+## Research & Education
 
-AI Systems  
-RAG • Embeddings • FAISS • Prompt Engineering
+**M.S. in Computer Science — Texas Tech University**  
+Expected graduation: **December 2026**
 
-DevOps  
-AWS • Docker • Jenkins • CI/CD
+My research experience includes evaluating robustness and security risks in agentic AI systems, with a focus on tool-use correctness, reasoning consistency, and reproducible benchmarking.
 
----
+## Current Focus
 
-# Current Focus
+- Reliable document AI and retrieval pipelines.
+- Secure workflow automation.
+- Backend performance and observability.
+- Building and shipping products through Maneuler.
 
-• AI-powered document and workflow systems  
-• Production RAG pipelines  
-• Scalable backend architecture  
-• ML evaluation frameworks  
+## Connect
 
----
-
-# Connect
-
-LinkedIn  
-https://linkedin.com/in/maneesh-malepati  
-
-Portfolio  
-https://maneesh.tech  
-
-Email  
-malepatimaneesh6@gmail.com
+**Portfolio:** [maneuler.com](https://maneuler.com)  
+**LinkedIn:** [maneesh-malepati](https://linkedin.com/in/maneesh-malepati)  
+**Email:** [malepatimaneesh6@gmail.com](mailto:malepatimaneesh6@gmail.com)
